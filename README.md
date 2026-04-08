@@ -8,15 +8,17 @@
   </a>
 </p>
 
+
+<h3 align="center">👩‍💻 ABOUT ME</h3>
 <!-- about me sumarizado -->
 <details>
-<summary><b>👩‍💻 A little more about me... </b>(click to expand)</b></summary>
+<summary><b>VIEW</b></summary>
 
 ```python
 lais = {
     "pronouns": "she | her",
     "location": "brazil",
-    "role": "soon-to-be data scientist",
+    "role": "[soon-to-be] data scientist",
     "working_on": [
         "portfolio projects in data science",
         "data storytelling dashboards"
@@ -29,8 +31,20 @@ lais = {
 ```
 </details>
 
+<div align="center">
+<h3 align="center">🛠️ STACKS AND TOOLS</h3>
 
-<!--START_SECTION:waka-->
+| Data Science & Analysis | Databases (SQL) | Development & Versioning |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py,sklearn" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" /> | <img src="https://skillicons.dev/icons?i=vscode,git,github" /> |
+
+<br/>
+
+<h3 align="center">📊 STATISTICS</h3>
+<br/>
+</div>
+
+<!--START_SECTION:waka--> 
 **I'm a Night 🦉** 
 
 ```text
@@ -61,5 +75,10 @@ Sunday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 No Activity Tracked This Week
 ```
 
+
+<h3 align="center">🎧 NOW LISTENING</h3>
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ut6paeuyldicf89yrdgwtsns5&cover_image=true&theme=novatorem&show_offline=false&background_color=010409&interchange=false&profanity=false&bar_color=a9bf6e&bar_color_cover=false" width="350" />
+</p>
 
 <!--END_SECTION:waka-->
