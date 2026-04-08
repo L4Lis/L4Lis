@@ -1,4 +1,10 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=soft&height=75&text=%20&color=0:0B132B,100:A9BF6E" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=A9BF6E&center=true&width=750&lines=Hey%2C+I'm+La%C3%ADs+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;A+[soon-to-be]+brazilian+Data+Scientist+%F0%9F%9A%80%F0%9F%93%8A;Data+enthusiast+by+day%2C+music+lover+by+night+%F0%9F%8C%99" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
