@@ -9,7 +9,7 @@
 </p>
 
 
-<h3 align="center">👩‍💻 ABOUT ME</h3>
+<h3 align="center">ABOUT ME</h3>
 <!-- about me sumarizado -->
 <details>
 <summary><b>VIEW</b></summary>
