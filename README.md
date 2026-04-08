@@ -41,7 +41,6 @@ lais = {
 <br/>
 
 <h3 align="center">📊 STATISTICS</h3>
-<br/>
 </div>
 
 <!--START_SECTION:waka--> 
